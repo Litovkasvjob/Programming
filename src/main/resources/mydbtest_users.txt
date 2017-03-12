@@ -1,0 +1,3 @@
+INSERT INTO mydbtest.users (id, name, age, email) VALUES (3, 'Serg', 35, 'litovkasvjob@gmail.com');
+INSERT INTO mydbtest.users (id, name, age, email) VALUES (5, 'Serg', 35, 'litovkasvjob@gmail.com');
+INSERT INTO mydbtest.users (id, name, age, email) VALUES (6, 'Anna', 25, 'litovkasvjob@gmail.com');

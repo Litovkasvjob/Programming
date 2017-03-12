@@ -1,0 +1,10 @@
+INSERT INTO mydbtest.movie (id, title, description, duration) VALUES (1, 'Dracula', 'Horror', 123);
+INSERT INTO mydbtest.movie (id, title, description, duration) VALUES (2, 'Dracula', 'Horror', 123);
+INSERT INTO mydbtest.movie (id, title, description, duration) VALUES (3, 'Matrix', 'Fantasy', 109);
+INSERT INTO mydbtest.movie (id, title, description, duration) VALUES (4, 'Titanic', 'Drama', 95);
+INSERT INTO mydbtest.movie (id, title, description, duration) VALUES (5, 'Title', 'Description', 124);
+INSERT INTO mydbtest.movie (id, title, description, duration) VALUES (6, 'Title', 'Description', 124);
+INSERT INTO mydbtest.movie (id, title, description, duration) VALUES (7, 'Title', 'Description', 124);
+INSERT INTO mydbtest.movie (id, title, description, duration) VALUES (8, 'Title', 'Description', 124);
+INSERT INTO mydbtest.movie (id, title, description, duration) VALUES (9, 'Title', 'Description', 124);
+INSERT INTO mydbtest.movie (id, title, description, duration) VALUES (10, 'Titanik', 'Drama', 95);

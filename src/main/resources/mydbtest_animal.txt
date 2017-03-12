@@ -1,0 +1,4 @@
+INSERT INTO mydbtest.animal (id, anim_name, anim_desc) VALUES (1, 'New name', 'desc');
+INSERT INTO mydbtest.animal (id, anim_name, anim_desc) VALUES (2, 'batch1', 'desc');
+INSERT INTO mydbtest.animal (id, anim_name, anim_desc) VALUES (3, 'batch2', 'desc');
+INSERT INTO mydbtest.animal (id, anim_name, anim_desc) VALUES (4, 'batch3', 'desc');
